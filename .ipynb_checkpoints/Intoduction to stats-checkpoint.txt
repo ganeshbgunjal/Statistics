@@ -1,0 +1,3 @@
+Here we are going to start statistics. 
+if there is code, it will be executed in this files, else written part is done in notebook.
+see and read from there.
